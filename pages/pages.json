@@ -1,0 +1,10 @@
+[
+  {
+    "type": "md",
+    "title": "Welcome!",
+    "name": "index",
+    "menu_text": "Home",
+    "menu_icon": "",
+    "menu": true
+  }
+]

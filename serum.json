@@ -1,0 +1,10 @@
+{
+  "site_name": "kimshin",
+  "site_description": "Blog Blog Blog",
+  "preview_length": 200,
+  "date_format": "{WDfull}, {D} {Mshort} {YYYY}",
+  "base_url": "/",
+  "author_email": "jcynico@gmail.com",
+  "author": "김신"
+}
+
