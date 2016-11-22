@@ -1,0 +1,9 @@
+
+body {
+  color: #141823;;
+  font-family: Noto Sans Korean, helvetica, arial, sans-serif;
+}
+.post {
+  max-width: 680px;
+  width: 100%;
+}
