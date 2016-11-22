@@ -1,9 +1,36 @@
-
 body {
   color: #141823;;
   font-family: Noto Sans Korean, helvetica, arial, sans-serif;
 }
+
 .post {
   max-width: 680px;
   width: 100%;
+  border: 1px solid #141823;
+  padding: 10px;
+}
+
+@media (max-width: 1000px) {
+  .post {
+    width: 100%;
+  }
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+h2 {
+  font-size: 1.2em;
+  margin: 16px 0 0;
+  color: #888;
+  text-decoration: underline;
+}
+
+p {
+  margin: 0 0 16px;
 }
