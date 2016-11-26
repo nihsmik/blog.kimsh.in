@@ -5,6 +5,6 @@
     "name": "index",
     "menu_text": "Home",
     "menu_icon": "",
-    "menu": true
+    "menu": false
   }
 ]
