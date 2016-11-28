@@ -4,10 +4,17 @@ body {
 }
 
 .post {
-  max-width: 680px;
-  width: 100%;
   border: 1px solid #141823;
+  max-width: 680px;
+  line-height: 2;
   padding: 10px;
+  width: 100%;
+}
+
+.post h2 {
+  color: #888;
+  font-size: 1em;
+  margin: 16px 0 0;
 }
 
 @media (max-width: 1000px) {
@@ -24,13 +31,11 @@ a:hover {
   text-decoration: underline;
 }
 
-h2 {
-  font-size: 1.2em;
-  margin: 16px 0 0;
-  color: #888;
-  text-decoration: underline;
-}
-
 p {
   margin: 0 0 16px;
+}
+
+.tags {
+  text-align: right;
+  margin: 0;
 }
